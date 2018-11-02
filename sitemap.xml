@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://air.github.io/post/first/</loc>
-    <lastmod>2018-11-02T17:45:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://air.github.io/post/test---%E5%89%AF%E6%9C%AC/</loc>
-    <lastmod>2018-11-02T17:44:02+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://air.github.io/post/test/</loc>
-    <lastmod>2018-11-02T17:44:02+08:00</lastmod>
+    <lastmod>2018-11-02T18:03:05+08:00</lastmod>
   </url>
   
   <url>
@@ -24,13 +14,13 @@
   
   <url>
     <loc>https://air.github.io/</loc>
-    <lastmod>2018-11-02T17:45:03+08:00</lastmod>
+    <lastmod>2018-11-02T18:03:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://air.github.io/post/</loc>
-    <lastmod>2018-11-02T17:45:03+08:00</lastmod>
+    <lastmod>2018-11-02T18:03:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
