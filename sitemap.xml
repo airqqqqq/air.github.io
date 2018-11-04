@@ -3,29 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://airqqqqq.github.io/post/test/</loc>
-    <lastmod>2018-11-02T18:03:05+08:00</lastmod>
+    <loc>http://airqqqqq.github.io/post/second/</loc>
+    <lastmod>2018-11-04T21:45:10+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://airqqqqq.github.io/categories/</loc>
+    <loc>http://airqqqqq.github.io/post/first/</loc>
+    <lastmod>2018-11-03T23:30:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://airqqqqq.github.io/post/test/</loc>
+    <lastmod>2018-11-03T23:23:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://airqqqqq.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://airqqqqq.github.io/</loc>
-    <lastmod>2018-11-02T18:03:05+08:00</lastmod>
+    <loc>http://airqqqqq.github.io/</loc>
+    <lastmod>2018-11-04T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://airqqqqq.github.io/post/</loc>
-    <lastmod>2018-11-02T18:03:05+08:00</lastmod>
+    <loc>http://airqqqqq.github.io/post/</loc>
+    <lastmod>2018-11-04T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://airqqqqq.github.io/tags/</loc>
+    <loc>http://airqqqqq.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
